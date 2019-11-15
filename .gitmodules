@@ -1,0 +1,27 @@
+[submodule "Web/Mentee-Manager"]
+	path = Web/Mentee-Manager
+	url = https://github.com/BharathKumarRavichandran/Mentee-Manager.git
+[submodule "Web/Maze-Runner"]
+	path = Web/Maze-Runner
+	url = https://github.com/BharathKumarRavichandran/Maze-Runner.git
+[submodule "Web/Scheduler"]
+	path = Web/Scheduler
+	url = https://github.com/BharathKumarRavichandran/Scheduler.git
+[submodule "Web/FoodShare"]
+	path = Web/FoodShare
+	url = https://github.com/BharathKumarRavichandran/FoodShare.git
+[submodule "Web/Onsites/Slider-Control"]
+	path = Web/Onsites/Slider-Control
+	url = https://github.com/BharathKumarRavichandran/Slider-Control.git
+[submodule "Web/Onsites/Voronoi-Diagram"]
+	path = Web/Onsites/Voronoi-Diagram
+	url = https://github.com/BharathKumarRavichandran/Voronoi-Diagram.git
+[submodule "Web/Onsites/Function-Plotter"]
+	path = Web/Onsites/Function-Plotter
+	url = https://github.com/BharathKumarRavichandran/Function-Plotter.git
+[submodule "Web/Onsites/Speech-Recognition"]
+	path = Web/Onsites/Speech-Recognition
+	url = https://github.com/BharathKumarRavichandran/Speech-Recognition.git
+[submodule "Web/Onsites/Virtual-Forest"]
+	path = Web/Onsites/Virtual-Forest
+	url = https://github.com/BharathKumarRavichandran/Virtual-Forest.git
